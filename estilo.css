@@ -1,0 +1,23 @@
+    .exp{
+	    background-color: #5599DD;
+		color: #DDDDDD;
+	 }
+     #email{
+	    text-decoration: underline;
+		text-indent: italic;
+	 }
+	 body{
+		 font-family: Arial;
+		 width: 1000px;
+		 margin-left: auto;
+		 margin-right: auto;
+	 }
+	 h2{
+		 background-color: #5599DD;
+		 color: #DDDDDD;
+		 padding: 5px;
+		 
+	 }
+	 #header{
+		 text-align: center;
+	 }
